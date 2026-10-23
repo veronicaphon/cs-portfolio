@@ -17,7 +17,7 @@ independent functions rather than writing a single monolithic block, the code ca
 
 # cs-portfolio
 Computer Science Portfolio
-# Portfolio Reflections: Agile & Software Development
+# Portfolio Reflections: Software Development Lifecycle
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 When it comes to building software, you can't just dive into coding and hope for the best; you have to actually understand what the user is trying to solve. I like to start by looking at the big picture and figuring out what the core problem is. 
