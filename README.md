@@ -1,3 +1,20 @@
+# C++ Portfolio Reflection - Programming Languages
+
+Looking back at the code, I think I did a particularly good job implementing efficient data structures to track item frequencies and structuring a clean,
+interactive user menu. The most challenging piece to write was handling edge cases with file input/output streams and ensuring the program could read external data
+sources without crashing. I overcame this challenge by carefully testing file stream states, breaking down the logic step-by-step, and leaning on programming documentation 
+and developer resources to sharpen my problem-solving skills.
+While the program meets all functional requirements successfully, I could enhance the code in the future by transitioning from a procedural script to an object-oriented 
+design for better modularity and data security. Implementing more robust error handling would also make the application even more robust against unexpected inputs. The 
+core skills I gained here such as parsing text files, managing state, and handling file streams in C++ will be highly transferable to future coursework and systems 
+programming projects.
+To ensure the program remains maintainable, readable, and adaptable, I adhered to clean coding practices throughout development. I used descriptive variable and 
+function names, maintained consistent code formatting, and added clear comments explaining the file-reading and data-processing loops. By breaking down tasks into 
+independent functions rather than writing a single monolithic block, the code can easily be adapted in the future if the store decides to add new reporting features.
+
+
+
+
 # cs-portfolio
 Computer Science Portfolio
 # Portfolio Reflections: Agile & Software Development
